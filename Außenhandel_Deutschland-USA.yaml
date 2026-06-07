@@ -9,9 +9,8 @@
     - "Obwohl die USA der größte Abnehmer deutscher Waren (Exporte) sind, verzeichnet Deutschland im Handel mit den USA im Gegensatz zu China einen deutlichen Exportüberschuss."
     - "Die Niederlande sind für die deutsche Exportwirtschaft von weitaus größerer Bedeutung als für die Importseite."
     - "Aufgrund der amerikanischen Einfuhrhemmnisse ist der Gesamtwert der exportierten Waren in die USA im Jahr 2025 bereits unter den Wert der Importe aus den USA gefallen."
-  answer: 2
-  hint: "Vergleiche für beide Länder jeweils die Relation zwischen den roten Balken (Einfuhr) und den blauen Balken (Ausfuhr)."
-  explanation: "Schüler neigen dazu, 'wichtigster Handelspartner' mit 'größter Lieferant' gleichzusetzen. Die Frage erzwingt die Unterscheidung zwischen Im- und Exporten sowie das Erkennen von Salden."
+  correct: B
+
 
 - title: "Resistenz von Exportgütern"
   type: single
@@ -24,9 +23,8 @@
     - "Pharmazeutische Produkte lassen sich im Gegensatz zu Kraftwagen oder Maschinen viel kostengünstiger per Schiff transportieren, wodurch Zölle kaum ins Gewicht fallen."
     - "Die USA haben für Medikamente sofortige Gegenzölle auf amerikanische Exporte verhängt, was den Handel künstlich stabilisierte."
     - "Deutsche Pharmaunternehmen haben ihre Produktion im Jahr 2025 komplett in die USA verlegt, um den Außenhandelwert in der Statistik zu pushen."
-  answer: 1
-  hint: "Überlege, wie leicht Konsumenten oder Krankenhäuser auf ein lebenswichtiges Medikament verzichten können, wenn der Preis steigt, im Vergleich zu einem Neuwagen."
-  explanation: "Führt den Begriff der Preiselastizität der Nachfrage im Kontext des Außenhandels ein. Während Autos/Maschinen substituiert oder aufgeschoben werden können, ist die Nachfrage bei Medikamenten unelastisch."
+  correct: A
+
 
 - title: "Lasten von Handelshemmnissen"
   type: single
@@ -39,6 +37,5 @@
     - "Der amerikanische Staat, da er die heimische Wirtschaft durch Subventionen vor der Inflation schützen muss und sich dadurch oversverschuldet."
     - "Die amerikanischen Verbraucher und Unternehmen, da Importeure die gestiegenen Zoll- und Beschaffungskosten über höhere Preise an den Binnenmarkt weitergeben."
     - "Die europäische Zentralbank, da der starke Preisanstieg in den USA den Euro-Wechselkurs massiv abwertet."
-  answer: 3
-  hint: "Schau dir den Titel des Diagramms genau an: Es geht um den US-Verbraucherpreisindex (VPI-U). Wer bezahlt am Ende die Preise, die in diesem Index gemessen werden?"
-  explanation: "Bricht das gängige Missverständnis auf, dass Zölle primär dem exportierenden Land schaden. Sie wirken wie eine Verbrauchssteuer im Inland und treiben dort die Inflation an."
+  correct: C
+ 
