@@ -1,5 +1,5 @@
 - title: "Deutschlands Handelspartner im Vergleich"
-  type: multiple-choice
+  type: single
   question: |
     Ein Blick auf die Handelsbilanzdaten von 2025 zeigt die unterschiedlichen Rollen der USA und Chinas für die deutsche Wirtschaft. [cite: 1]
     
@@ -14,7 +14,7 @@
   explanation: "Schüler neigen dazu, 'wichtigster Handelspartner' mit 'größter Lieferant' gleichzusetzen. Die Frage erzwingt die Unterscheidung zwischen Im- und Exporten sowie das Erkennen von Salden."
 
 - title: "Resistenz von Exportgütern"
-  type: multiple-choice
+  type: single
   question: |
     Wenn man die Entwicklung der deutschen Exporte in die USA von 2024 auf 2025 betrachtet, fällt auf, dass fast alle großen Warengruppen (Kraftwagen, Maschinen, Chemie) wertmäßig geschrumpft sind – mit einer markanten Ausnahme: den pharmazeutischen Erzeugnissen. [cite: 1]
     
@@ -29,7 +29,7 @@
   explanation: "Führt den Begriff der Preiselastizität der Nachfrage im Kontext des Außenhandels ein. Während Autos/Maschinen substituiert oder aufgeschoben werden können, ist die Nachfrage bei Medikamenten unelastisch."
 
 - title: "Lasten von Handelshemmnissen"
-  type: multiple-choice
+  type: single
   question: |
     Das US-Diagramm zeigt für Juni 2025 einen schnellen Inflationsanstieg, insbesondere bei importnahen Kategorien wie „Kraftstoffe“ (+3,6 Prozentpunkte) oder „Geräte“ (+1,1 Prozentpunkte). [cite: 1]
     
