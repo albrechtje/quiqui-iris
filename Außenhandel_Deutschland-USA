@@ -1,0 +1,44 @@
+- title: "Deutschlands Handelspartner im Vergleich"
+  type: multiple-choice
+  question: |
+    Ein Blick auf die Handelsbilanzdaten von 2025 zeigt die unterschiedlichen Rollen der USA und Chinas für die deutsche Wirtschaft. [cite: 1]
+    
+    Welche Aussage lässt sich anhand der Daten korrekt ableiten?
+  options:
+    - "Da China wertmäßig unser größter Lieferant ist, ist die Volksrepublik automatisch auch der wichtigste Gesamthandelspartner (Summe aus Exporten und Importen) für Deutschland."
+    - "Obwohl die USA der größte Abnehmer deutscher Waren (Exporte) sind, verzeichnet Deutschland im Handel mit den USA im Gegensatz zu China einen deutlichen Exportüberschuss."
+    - "Die Niederlande sind für die deutsche Exportwirtschaft von weitaus größerer Bedeutung als für die Importseite."
+    - "Aufgrund der amerikanischen Einfuhrhemmnisse ist der Gesamtwert der exportierten Waren in die USA im Jahr 2025 bereits unter den Wert der Importe aus den USA gefallen."
+  answer: 2
+  hint: "Vergleiche für beide Länder jeweils die Relation zwischen den roten Balken (Einfuhr) und den blauen Balken (Ausfuhr)."
+  explanation: "Schüler neigen dazu, 'wichtigster Handelspartner' mit 'größter Lieferant' gleichzusetzen. Die Frage erzwingt die Unterscheidung zwischen Im- und Exporten sowie das Erkennen von Salden."
+
+- title: "Resistenz von Exportgütern"
+  type: multiple-choice
+  question: |
+    Wenn man die Entwicklung der deutschen Exporte in die USA von 2024 auf 2025 betrachtet, fällt auf, dass fast alle großen Warengruppen (Kraftwagen, Maschinen, Chemie) wertmäßig geschrumpft sind – mit einer markanten Ausnahme: den pharmazeutischen Erzeugnissen. [cite: 1]
+    
+    Welcher ökonomische Grund erklärt am ehesten, warum Pharmazeutika trotz drohender oder bestehender Handelshemmnisse resistent gegen diesen Abwärtstrend waren?
+  options:
+    - "Die Nachfrage nach medizinischen Gütern und Medikamenten ist weitgehend unelastisch; US-Abnehmer können kurzfristig nicht auf diese Importe verzichten, selbst wenn sie sich verteuern."
+    - "Pharmazeutische Produkte lassen sich im Gegensatz zu Kraftwagen oder Maschinen viel kostengünstiger per Schiff transportieren, wodurch Zölle kaum ins Gewicht fallen."
+    - "Die USA haben für Medikamente sofortige Gegenzölle auf amerikanische Exporte verhängt, was den Handel künstlich stabilisierte."
+    - "Deutsche Pharmaunternehmen haben ihre Produktion im Jahr 2025 komplett in die USA verlegt, um den Außenhandelwert in der Statistik zu pushen."
+  answer: 1
+  hint: "Überlege, wie leicht Konsumenten oder Krankenhäuser auf ein lebenswichtiges Medikament verzichten können, wenn der Preis steigt, im Vergleich zu einem Neuwagen."
+  explanation: "Führt den Begriff der Preiselastizität der Nachfrage im Kontext des Außenhandels ein. Während Autos/Maschinen substituiert oder aufgeschoben werden können, ist die Nachfrage bei Medikamenten unelastisch."
+
+- title: "Lasten von Handelshemmnissen"
+  type: multiple-choice
+  question: |
+    Das US-Diagramm zeigt für Juni 2025 einen schnellen Inflationsanstieg, insbesondere bei importnahen Kategorien wie „Kraftstoffe“ (+3,6 Prozentpunkte) oder „Geräte“ (+1,1 Prozentpunkte). [cite: 1]
+    
+    Wer trägt ökonomisch betrachtet kurzfristig die Hauptlast dieser Entwicklung?
+  options:
+    - "Die deutschen Exporteure, da sie die amerikanischen Zölle direkt an den US-Zoll bezahlen müssen und dadurch ihre Gewinnmarge in Deutschland sinkt."
+    - "Der amerikanische Staat, da er die heimische Wirtschaft durch Subventionen vor der Inflation schützen muss und sich dadurch oversverschuldet."
+    - "Die amerikanischen Verbraucher und Unternehmen, da Importeure die gestiegenen Zoll- und Beschaffungskosten über höhere Preise an den Binnenmarkt weitergeben."
+    - "Die europäische Zentralbank, da der starke Preisanstieg in den USA den Euro-Wechselkurs massiv abwertet."
+  answer: 3
+  hint: "Schau dir den Titel des Diagramms genau an: Es geht um den US-Verbraucherpreisindex (VPI-U). Wer bezahlt am Ende die Preise, die in diesem Index gemessen werden?"
+  explanation: "Bricht das gängige Missverständnis auf, dass Zölle primär dem exportierenden Land schaden. Sie wirken wie eine Verbrauchssteuer im Inland und treiben dort die Inflation an."
