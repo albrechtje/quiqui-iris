@@ -1,0 +1,87 @@
+# Euro, Dollar, Yen: Außenwert des Geldes
+# Fach: Wirtschaft | Klasse 10–13
+# Quelle: RAAbits Wirtschaft, Berufliche Schulen, November 2016 –
+#         M 10: Euro, Dollar, Yen: Was ist der Außenwert des Geldes?
+#
+# Hinweis: Alle Fragen sind Single Choice (genau eine richtige Antwort).
+
+- question: "Was versteht man unter dem Außenwert einer Währung?"
+  type: single
+  answers:
+    - "Den Preis, den man im Inland für Güter und Dienstleistungen zahlt."
+    - "Das Verhältnis der Inlandswährung zu einer ausländischen Währung (Wechselkurs)."
+    - "Die Menge an Devisen, die eine Zentralbank besitzt."
+    - "Den Zinssatz, zu dem Banken Geld verleihen."
+  correct: B
+  explanation: "Der Außenwert einer Währung ist das Verhältnis der Inlandswährung zu einer ausländischen Währung – also der Wechselkurs. Er zeigt an, wie viel man für einen Euro in einem anderen Land außerhalb der Eurozone erhält."
+
+- question: 'Welche der folgenden Aussagen beschreibt den Begriff „Kaufkraftparität" korrekt?'
+  type: single
+  answers:
+    - "Der Außenwert einer Währung ist höher als ihr Binnenwert."
+    - "Der Binnenwert einer Währung ist höher als ihr Außenwert."
+    - "Binnenwert und Außenwert einer Währung stimmen überein."
+    - "Eine Währung wird im Ausland nicht als Zahlungsmittel akzeptiert."
+  correct: C
+  explanation: "Kaufkraftparität liegt vor, wenn Binnenwert und Außenwert einer Währung übereinstimmen – d. h., wenn man mit einem umgetauschten Euro im Ausland genauso viel kaufen kann wie im Inland."
+
+- question: "1 US-Dollar kostet 1,20 Euro. Wie hoch ist der Außenwert des Euro in US-Dollar?"
+  type: single
+  answers:
+    - "1,20 US-Dollar"
+    - "1,00 US-Dollar"
+    - "0,83 US-Dollar"
+    - "0,50 US-Dollar"
+  correct: C
+  explanation: "Kostet 1 US-Dollar 1,20 Euro, so erhält man für 1 Euro den Kehrwert: 1 ÷ 1,20 ≈ 0,83 US-Dollar. Das ist der Außenwert des Euro in US-Dollar."
+
+- question: "Laut der Kurstabelle (Stand: 12.09.2016): Zu welchem Kurs kauft eine Bank ausländisches Bargeld (Sorten) an?"
+  type: single
+  answers:
+    - "Zum Briefkurs"
+    - "Zum Verkaufskurs"
+    - "Zum Ankaufskurs"
+    - "Zum Geldkurs"
+  correct: C
+  explanation: "Der Ankauf von ausländischem Bargeld (Sorten) erfolgt zum Ankaufskurs. Der Verkauf von Sorten erfolgt zum Verkaufskurs. (Beispiel: 1 USD Ankauf = 0,862 €)"
+
+- question: "Welche der folgenden Aussagen über Devisen ist richtig?"
+  type: single
+  answers:
+    - "Devisen sind ausländisches Bargeld in Form von Münzen und Scheinen."
+    - "Devisen sind ausländisches Geld in unbarer Form, z. B. Schecks oder Zahlungsanweisungen."
+    - "Devisen sind Wertpapiere, die an der Börse gehandelt werden."
+    - "Devisen sind Kreditkarten, die im Ausland genutzt werden können."
+  correct: B
+  explanation: "Devisen sind ausländisches Geld in unbarer Form, z. B. Schecks oder Zahlungsanweisungen. Ausländisches Bargeld (Münzen und Scheine) hingegen bezeichnet man als Sorten."
+
+- question: "Wie verdienen Banken beim Umtausch von Währungen, obwohl sie keine direkten Gebühren verlangen?"
+  type: single
+  answers:
+    - "Durch staatliche Subventionen für Devisengeschäfte."
+    - "Durch die Differenz zwischen Ankaufskurs und Verkaufskurs."
+    - "Durch Zinsen auf das umgetauschte Geld."
+    - "Durch Provisionen von der Europäischen Zentralbank."
+  correct: B
+  explanation: "Banken verlangen zwar keine direkten Gebühren, erzielen ihren Gewinn aber durch die Differenz zwischen Ankaufskurs und Verkaufskurs (sog. Spread). Sie kaufen Devisen günstiger an, als sie sie verkaufen."
+
+- question: |
+    Man tauscht 100 Euro in US-Dollar und kann damit in den USA mehr Güter kaufen als in der Eurozone. Was bedeutet das?
+  type: single
+  answers:
+    - "Der Außenwert des Euro in den USA ist niedriger als sein Binnenwert."
+    - "Es besteht Kaufkraftparität zwischen Euro und US-Dollar."
+    - "Der Außenwert des Euro in den USA ist höher als seine Kaufkraft in Euroland."
+    - "Der Euro ist in den USA kein anerkanntes Zahlungsmittel."
+  correct: C
+  explanation: "Wenn man mit umgetauschten Euro im Ausland mehr kaufen kann als im Inland, ist der Außenwert des Euro höher als sein Binnenwert in diesem Land. Es liegt also keine Kaufkraftparität vor."
+
+- question: "🌟 Bonusfrage: Welche der folgenden Faktoren begründen laut Text wirtschaftliche Beziehungen zwischen Ländern?"
+  type: single
+  answers:
+    - "Nur Güterimport und -export."
+    - "Güter- und Dienstleistungsaustausch, Auslandsreisen sowie Kapitalanlagen im Ausland."
+    - "Ausschließlich Auslandsreisen und Tourismus."
+    - "Nur das Anlegen von Kapital im Ausland zu Spekulationszwecken."
+  correct: B
+  explanation: "Laut Text entstehen wirtschaftliche Beziehungen zwischen Ländern durch gegenseitigen Güter- und Dienstleistungsaustausch (Import/Export), Auslandsreisen sowie das Anlegen von Kapital im Ausland (zu Anlage- und Spekulationszwecken)."

@@ -1,0 +1,6 @@
+# Stabiler URL-Abschnitt für den Studierenden-/Schüler-Join-Link: /join/<session_url>
+# Muss instanzweit eindeutig sein – daher mit Org-Kürzel versehen.
+session_url: gymwen-wi
+
+# Anzeigename in Kopfzeile und Browser-Tab: "QuiQui: <title>"
+title: "Euro, Dollar, Yen: Außenwert des Geldes"
