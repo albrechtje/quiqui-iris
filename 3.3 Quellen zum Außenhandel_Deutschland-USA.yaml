@@ -39,3 +39,28 @@
     - "Die europäische Zentralbank, da der starke Preisanstieg in den USA den Euro-Wechselkurs massiv abwertet."
   correct: C
  
+
+- question: |
+    Betrachten man das Diagramm zur Entwicklung des deutschen Außenhandels im Dreijahresvergleich, lässt sich eine charakteristische Dynamik bei den Exporten und Importen beobachten.
+    Welche Aussage beschreibt die dort dargestellte Entwicklung der Handelsbilanz im Februar 2026 im Vergleich zu den Vorjahren korrekt?
+  type: single
+  answers:
+    - "Die Schere zwischen Ausfuhren und Einfuhren schließt sich vollständig, da die Importe im Februar 2026 sprunghaft angestiegen sind."
+    - "Der Exportüberschuss hat sich seit 2024 verringert, da die Importe stärker zulegten als die Exporte."
+    - "Sowohl die Exporte als auch die Importe sind seit Februar 2024 kontinuierlich in jedem Jahr schrittweise zurückgegangen."
+    - "Die Handelsbilanz bricht im Februar 2026 ein, da der Wert der Importe erstmals den Wert der Exporte deutlich übersteigt."
+  correct: B
+  explanation: "Zur Beantwortung sollte das Diagramm 'Deutschlands Außenhandel (in Milliarden Euro) für die Monate Februar 2024 und 2026' genutzt werden. Es zeigt, dass die Exporte von 131,1 (2025) auf 135,2 (2026) steigen, während die Importe im selben Zeitraum nur von 109,3 auf 115,4 anstiegen."
+
+
+- question: |
+    Das Liniendiagramm zeigt die langfristige Entwicklung der wichtigsten deutschen Handelspartner (Summe aus Im- und Exporten) seit dem Jahr 2015.
+    Welcher fundamentale Strukturwandel im deutschen Außenhandel lässt sich aus dem Kurvenverlauf zwischen den Jahren 2024 und 2025 ablesen?
+  type: single
+  answers:
+    - "Der Außenhandel mit Polen ist auf einem konstant niedrigen Niveau. Polen ist daher ein unwichtiger Handelspartner für Deutschland."
+    - "Die Niederlande bleiben konstant an dritter Position der wichtigsten Handelspartner Deutschlands."
+    - "Alle europäischen Nachbarstaaten verzeichnen ab dem Jahr 2024 einen identischen, steilen Wachstumstrend nach oben."
+    - "Die USA verlieren erneut ihre Spitzenposition im Gesamthandelsvolumen und werden im Jahr 2025 von China überholt."
+  correct: D
+  explanation: "Zur Beantwortung sollte das Liniendiagramm 'Deutschlands wichtigste Handelspartner: Entwicklung der Summe von Warenimporten und -exporten seit 2015' genutzt werden. Es zeigt den Schnittpunkt im Jahr 2025, bei dem die rote Linie (China) die schwarze Linie (USA) kreuzt."
