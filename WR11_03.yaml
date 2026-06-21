@@ -1,0 +1,34 @@
+- question: |
+    Im Text werden tarifäre und nichttarifäre Handelshemmnisse voneinander abgegrenzt. 
+    Welches ökonomische Problem wird primär den nichttarifären Maßnahmen zugeschrieben, das bei klassischen Zöllen in dieser Form nicht auftritt?
+  type: single
+  answers:
+    - "Sie verzerren den Marktmechanismus so stark, dass der Staat gezwungen ist, Mindestpreise für alle betroffenen Inlandsprodukte festzulegen."
+    - "Sie führen aufgrund ihrer Intransparenz dazu, dass der Preismechanismus außer Kraft gesetzt wird und sie schwer zu erfassen sind."
+    - "Sie verursachen beim Staat extrem hohe Verwaltungskosten, da jede Maßnahme einzeln in internationalen Zolltarifen gelistet werden muss."
+    - "Sie begünstigen einseitig Entwicklungsländer, da diese durch die Maßnahmen von sämtlichen Qualitätsstandards befreit werden."
+  correct: B
+  explanation: "Prüft das Verständnis des Textabschnitts zu nichttarifären Hemmnissen. Laut Text setzen diese den Preismechanismus außer Kraft und sind schwer zu erfassen."
+
+- question: |
+    Staaten können Importe entweder über Zölle oder über Importquoten (Mengenbegrenzungen) beschränken. 
+    Aus welchem Grund stellt sich ein Land bei der Wahl einer Importquote laut Text ökonomisch schlechter als bei der Einführung eines Zolls?
+  type: single
+  answers:
+    - "Die Importquote führt im Gegensatz zum Zoll zu keinerlei Preissteigerungen auf dem inländischen Markt."
+    - "Durch die reine Begrenzung der menge generiert der Staat im Gegensatz zum Zoll überhaupt keine Einnahmen."
+    - "Inländische Unternehmen verringern bei einer Quote sofort ihre Produktion, was die Arbeitslosigkeit drastisch erhöht."
+    - "Quoten dürfen laut den internationalen Abkommen der EU grundsätzlich nur für Agrarprodukte eingesetzt werden."
+  correct: B
+  explanation: "Basiert auf dem Abschnitt 'Quoten beschränken den Markt'. Der Text hebt hervor, dass der Staat durch die Mengenbegrenzung keinerlei Einnahmen generiert."
+
+- question: |
+    Welche Konsequenz kann sich für inländische Unternehmen ergeben, wenn ein Staat sehr strenge Vorschriften und Standards als nichttarifäre Maßnahmen einführt?
+  type: single
+  answers:
+    - "Unternehmen verlieren ihre Wettbewerbsfähigkeit, da sie die hohen Umsetzungskosten auf ihre Produktpreise umlegen müssen."
+    - "Unternehmen erhalten automatisch staatliche Exportsubventionen, um die zusätzlichen Zertifizierungskosten auszugleichen."
+    - "Unternehmen verlagern ihre gesamte Produktion ins Ausland, weil dort die identischen Standards kostengünstiger geprüft werden."
+    - "Unternehmen sind gezwungen, ihre Preise radikal zu senken, um die mangelnde Qualität der Produkte zu kompensieren."
+  correct: A
+  explanation: "Prüft das Verständnis der Auswirkung von Standards. Laut Text führen hohe Umsetzungskosten zu höheren Preisen, was die Wettbewerbsfähigkeit gefährdet."
