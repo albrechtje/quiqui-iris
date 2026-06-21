@@ -1,51 +1,49 @@
 - question: |
-    Im Unterricht haben wir den Unterschied zwischen dem nominalen und dem realen Wechselkurs besprochen. 
-    
+    Im Video wurde der Unterschied zwischen dem nominalen und dem realen Wechselkurs besprochen. 
     Welche der folgenden Aussagen beschreibt die ökonomische Aussagekraft des realen Wechselkurses am präzisesten?
   type: single
   answers:
     - "Er zeigt direkt an, wie viele Einheiten einer ausländischen Währung man auf dem Devisenmarkt für eine Einheit der heimischen Währung eintauschen kann."
-    - "Er misst das tatsächliche tägliche Handelsvolumen auf dem weltweiten Devisenmarkt (FX-Markt) bereinigt um die staatlichen Devisenreserven."
-    - "Er setzt das nominale Austauschverhältnis der Währungen ins Verhältnis zu den Preisniveaus der Länder und spiegelt somit die tatsächliche Kaufkraft und Wettbewerbsfähigkeit wider."
+    - "Er misst das tatsächliche tägliche Handelsvolumen auf dem weltweiten Devisenmarkt bereinigt um die staatlichen Devisenreserven."
+    - "Er setzt das nominale Austauschverhältnis der Währungen ins Verhältnis zu den Preisniveaus der Länder und spiegelt somit die tatsächliche Kaufkraft wider."
     - "Er wird von Regierungen und Zentralbanken als fester Wechselkurs vorgegeben, um spekulative Marktschwankungen vollständig auszuschließen."
   correct: C
-  explanation: "Prüft das Verständnis des realen Wechselkurses als Indikator für Kaufkraftparität und internationale Wettbewerbsfähigkeit im Vergleich zum reinen Finanzmarktkurs."
+  explanation: "Prüft das Verständnis des realen Wechselkurses als Indikator für Kaufkraftparität im Vergleich zum reinen Finanzmarktkurs."
 
 - question: |
     Angenommen, der Euro wertet im Vergleich zum US-Dollar nominal stark auf. 
-    
-    Welche unmittelbare Folge ergibt sich daraus typischerweise für die Akteure des deutschen Außenhandels?
-  type: single
+    Welche unmittelbaren Folgen ergeben sich daraus typischerweise für die Akteure des deutschen Außenhandels?
+  type: multiple
   answers:
-    - "Deutsche Exporte in die USA werden für amerikanische Kunden teurer, während Importe aus den USA für deutsche Verbraucher günstiger werden."
-    - "Sowohl die deutschen Exporteure als auch die Importeure profitieren gleichermaßen von höheren Gewinnmargen im Handel mit den USA."
-    - "Die Wettbewerbsfähigkeit der deutschen Automobilhersteller auf dem amerikanischen Markt steigt sprunghaft an."
-    - "Die amerikanische Zentralbank ist gezwungen, den Wechselkurs durch massive Interventionen sofort wieder an den Euro zu koppeln."
-  correct: A
-  explanation: "Überprüft die Anwendung des Konzepts der Währungsaufwertung auf Exporte und Importe und fördert das Verständnis für wechselkursbedingte Preisänderungen."
+    - "Deutsche Exporte in die USA werden für amerikanische Kunden teurer, was den Absatz dort drosseln kann."
+    - "Die exportierenden deutschen Unternehmen erzielen ohne Preisanpassung automatisch höhere Gewinnmargen."
+    - "Die amerikanischen Importeure können deutsche Waren im eigenen Land plötzlich viel billiger anbieten."
+    - "Importe aus den USA werden für deutsche Verbraucher günstiger, was den Konsum dieser Güter anregen kann."
+  correct:
+    - A
+    - D
+  explanation: "Überprüft die doppelten Auswirkungen einer Aufwertung (Exporte werden teurer, Importe werden billiger). Da zwei Optionen zutreffen, ist dies eine Multiple-Choice-Frage."
 
 - question: |
-    Einige Staaten entscheiden sich dafür, den Wechselkurs ihrer Währung fest an eine Leitwährung (wie den US-Dollar oder Euro) zu koppeln, anstatt ihn frei am Markt floaten zu lassen. 
-    
-    Was ist das primäre ökonomische Ziel einer solchen Maßnahme?
+    Einige Staaten entscheiden sich dafür, den Wechselkurs ihrer Währung fest an eine Leitwährung zu koppeln. 
+    Was ist das primäre ökonomische Ziel einer solchen ordnungspolitischen Maßnahme?
   type: single
   answers:
-    - "Das tägliche Marktvolumen auf dem heimischen FX-Markt künstlich zu maximieren, um Spekulanten anzulocken."
-    - "Planungssicherheit für den internationalen Handel zu schaffen und das Wechselkursrisiko für Importeure und Exporteure zu eliminieren."
-    - "Die heimische Inflationsrate permanent auf exakt null Prozent zu halten, unabhängig von der weltwirtschaftlichen Entwicklung."
-    - "Sicherzustellen, dass die eigene Währung automatisch immer wertvoller wird als die Währung aller Nachbarstaaten."
+    - "Das tägliche Marktvolumen auf dem heimischen Devisenmarkt künstlich zu maximieren, um internationale Spekulanten anzulocken."
+    - "Planungssicherheit für den internationalen Handel zu schaffen und das Wechselkursrisiko für die Unternehmen zu eliminieren."
+    - "Die heimische Inflationsrate permanent auf exakt null Prozent zu halten, unabhängig von der globalen Wirtschaftsentwicklung."
+    - "Sicherzustellen, dass die eigene Währung automatisch immer wertvoller wird als die Währung aller direkten Nachbarstaaten."
   correct: B
-  explanation: "Fokussiert auf die ordnungspolitische und risikominimierende Funktion von fixen Wechselkurssystemen für exportorientierte Volkswirtschaften."
+  explanation: "Fokussiert auf die risiko- und transaktionskostenminimierende Funktion von fixen Wechselkursen für den Handel."
 
 - question: |
-    Der Devisenmarkt (FX-Markt) ist durch extrem hohe tägliche Handelsvolumina und ständige Kursänderungen geprägt. 
-    
-    Welcher fundamentale Mechanismus treibt die fortlaufenden Schwankungen eines flexiblen Wechselkurses im Sekundentakt an?
+    Der Devisenmarkt (FX-Markt) ist durch extrem hohe tägliche Handelsvolumina geprägt. 
+    Welcher fundamentale Mechanismus treibt die fortlaufenden Kursänderungen bei flexiblen Wechselkursen an?
   type: single
   answers:
-    - "Die fortlaufenden politischen Beschlüsse der Welthandelsorganisation (WTO) zur Anpassung der globalen Zolltarife."
-    - "Die Anpassung der Wechselkurse durch die jeweilige Regierung auf Basis der monatlichen Handelsbilanzüberschüsse."
-    - "Das sich ständig ändernde Zusammenspiel von Angebot und Nachfrage nach einer Währung, getrieben durch Handel, Investitionen und Spekulationen."
-    - "Die Festlegung von fixen Umrechnungsverhältnissen durch ein internationales Konsortium der größten Geschäftsbanken zu Beginn jedes Handelstages."
+    - "Die fortlaufenden politischen Beschlüsse der Welthandelsorganisation zur regelmäßigen Anpassung der globalen Zolltarife."
+    - "Die administrative Anpassung der Kurse durch die jeweilige Zentralbank auf Basis der monatlichen Handelsbilanzsalden."
+    - "Das sich ständig ändernde Zusammenspiel von Angebot und Nachfrage nach einer Währung durch Handel und Spekulation."
+    - "Die Festlegung von fixen Umrechnungsverhältnissen durch ein internationales Konsortium der größten privaten Geschäftsbanken."
   correct: C
-  explanation: "Aktiviert das Basiswissen über die Preisbildung auf freien Märkten und überträgt dieses auf das Asset 'Währung' am Devisenmarkt."
+  explanation: "Aktiviert das Basiswissen über die marktliche Preisbildung durch Angebot und Nachfrage auf dem Devisenmarkt."
