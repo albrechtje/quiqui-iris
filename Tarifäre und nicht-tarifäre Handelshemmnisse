@@ -11,24 +11,27 @@
   explanation: "Prüft das Verständnis des Textabschnitts zu nichttarifären Hemmnissen. Laut Text setzen diese den Preismechanismus außer Kraft und sind schwer zu erfassen."
 
 - question: |
-    Staaten können Importe entweder über Zölle oder über Importquoten (Mengenbegrenzungen) beschränken. 
-    Aus welchem Grund stellt sich ein Land bei der Wahl einer Importquote laut Text ökonomisch schlechter als bei der Einführung eines Zolls?
-  type: single
+    Staaten können Importe über Importquoten (Mengenbegrenzungen) beschränken. 
+    Welche der folgenden Aussagen beschreiben korrekte ökonomische Auswirkungen einer solchen Importquote im Vergleich zu einem klassischen Zoll?
+  type: multiple
   answers:
-    - "Die Importquote führt im Gegensatz zum Zoll zu keinerlei Preissteigerungen auf dem inländischen Markt."
-    - "Durch die reine Begrenzung der menge generiert der Staat im Gegensatz zum Zoll überhaupt keine Einnahmen."
-    - "Inländische Unternehmen verringern bei einer Quote sofort ihre Produktion, was die Arbeitslosigkeit drastisch erhöht."
-    - "Quoten dürfen laut den internationalen Abkommen der EU grundsätzlich nur für Agrarprodukte eingesetzt werden."
-  correct: B
-  explanation: "Basiert auf dem Abschnitt 'Quoten beschränken den Markt'. Der Text hebt hervor, dass der Staat durch die Mengenbegrenzung keinerlei Einnahmen generiert."
+    - "Die inländischen Konsumenten müssen durch das künstlich verknappte Angebot mit spürbaren Preissteigerungen auf dem Markt rechnen."
+    - "Die Importquote führt im Gegensatz zum Zoll dazu, dass inländische Unternehmen ihre Produktion reduzieren, was die Arbeitslosigkeit erhöht."
+    - "Der Staat erzielt durch den Verkauf von Importlizenzen automatisch exakt dieselben Steuereinnahmen wie durch einen regulären Zoll."
+    - "Durch die reine Begrenzung der Menge fließen dem Staat im Gegensatz zu einem Importzoll keinerlei direkte Einnahmen zu."
+  correct: 
+    - A
+    - D
+  explanation: "Überprüft die Auswirkungen von Quoten. Schüler müssen erkennen, dass Quoten laut Text sowohl den Markt beschränken (Preise steigen) als auch dem Staat keine Einnahmen einbringen."
 
 - question: |
     Welche Konsequenz kann sich für inländische Unternehmen ergeben, wenn ein Staat sehr strenge Vorschriften und Standards als nichttarifäre Maßnahmen einführt?
   type: single
   answers:
-    - "Unternehmen verlieren ihre Wettbewerbsfähigkeit, da sie die hohen Umsetzungskosten auf ihre Produktpreise umlegen müssen."
     - "Unternehmen erhalten automatisch staatliche Exportsubventionen, um die zusätzlichen Zertifizierungskosten auszugleichen."
     - "Unternehmen verlagern ihre gesamte Produktion ins Ausland, weil dort die identischen Standards kostengünstiger geprüft werden."
+    - "Unternehmen verlieren ihre Wettbewerbsfähigkeit, da sie die hohen Umsetzungskosten auf ihre Produktpreise umlegen müssen."
     - "Unternehmen sind gezwungen, ihre Preise radikal zu senken, um die mangelnde Qualität der Produkte zu kompensieren."
-  correct: A
+  correct: C
   explanation: "Prüft das Verständnis der Auswirkung von Standards. Laut Text führen hohe Umsetzungskosten zu höheren Preisen, was die Wettbewerbsfähigkeit gefährdet."
+
