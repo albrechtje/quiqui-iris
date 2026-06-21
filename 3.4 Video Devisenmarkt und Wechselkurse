@@ -1,0 +1,122 @@
+# ==========================================
+# ABSCHNITT 1: Wechselkurse und FX (0:00 bis 1:26)
+# ==========================================
+
+- question: |
+    Im ersten Abschnitt des Videos wird das Marktvolumen des weltweiten Devisenmarktes (FX-Markt) thematisiert. 
+    Welche Dimension umfasst das tägliche Handelsvolumen auf diesem laut Transkript liquidesten Markt der Welt?
+  type: single
+  answers:
+    - "Das tägliche Handelsvolumen auf diesem Markt umfasst einen Wert von knapp über 5 Millionen US-Dollar."
+    - "Das tägliche Handelsvolumen auf diesem Markt bewegt sich in einer Spanne von genau 1 bis 2 Billionen Euro."
+    - "Das tägliche Handelsvolumen auf diesem Markt übersteigt einen Gesamtwert von über 5 Billionen US-Dollar."
+    - "Das tägliche Handelsvolumen auf diesem Markt wird auf 15 Millionen britische Pfund geschätzt."
+  correct: C
+  explanation: "Prüft das genaue Hinhören im ersten Abschnitt. Das Video nennt explizit ein tägliches Marktvolumen von über 5 Billionen US-Dollar."
+
+- question: |
+    Wechselkurse zwischen frei handelbaren Währungen verändern sich permanent. 
+    Welche Begründung liefert das Video für diese ständige, sekündliche Kursdynamik auf den Devisenmärkten?
+  type: single
+  answers:
+    - "Die Kurse schwanken ständig, weil der FX-Markt der größte und gleichzeitig liquideste Markt der gesamten Welt ist."
+    - "Die Kurse ändern sich, weil die beteiligten Großbanken die Umrechnungskurse zu jeder vollen Stunde neu festschreiben."
+    - "Die Kurse bewegen sich, weil die Zentralbanken die Volumina täglich an die nationalen Inflationsraten anpassen."
+    - "Die Kurse variieren, weil die Welthandelsorganisation fortlaufend neue Höchstgrenzen für Währungstransaktionen vorgibt."
+  correct: A
+  explanation: "Gibt die Begründung aus Minute 1:00-1:10 wieder: Die ständige Änderung liegt an der enormen Größe und Liquidität des Marktes."
+
+- question: |
+    Der Euro-US-Dollar-Kurs wird im Video als praktisches Beispiel für die Funktionsweise von Wechselkursen herangezogen. 
+    Was bedeutet es konkret, wenn der aktuelle Wechselkurs für dieses Währungspaar bei einem Wert von 1,05 steht?
+  type: single
+  answers:
+    - "Man muss im Inland genau 1,05 Euro bezahlen, um bei der Zentralbank einen amerikanischen Warenkorb zu erwerben."
+    - "Man erhält für den Eintausch von einem Euro auf dem Devisenmarkt genau einen Dollar und 5 Cent an Gegenwert."
+    - "Man benötigt exakt 1,05 US-Dollar, um auf dem internationalen Finanzmarkt einen Gegenwert von einem britischen Pfund zu kaufen."
+    - "Man bekommt für einen US-Dollar beim Rücktausch im Inland garantiert einen festen Betrag von 1,05 Euro ausgezahlt."
+  correct: B
+  explanation: "Überprüft das grundlegende Verständnis der Mengennotierung anhand des im Video genannten Rechenbeispiels (1 Euro = 1 Dollar und 5 Cent)."
+
+# ==========================================
+# ABSCHNITT 2: "Nominal oder real?" (1:27 bis 4:04)
+# ==========================================
+
+- question: |
+    Einige Länder entscheiden sich bewusst gegen ein freies Floating ihrer Währung und führen stattdessen einen fixen Wechselkurs ein. 
+    Welche Bedingungen oder Motive nennt das Video für eine solche ordnungspolitische Maßnahme? (Wählen Sie zwei richtige Antworten)
+  type: multiple
+  answers:
+    - "Das Land möchte die eigene Währungspolitik vollständig aufgeben, um den Zahlungsverkehr komplett in bar abzuwickeln."
+    - "Das Land versucht dadurch, das tägliche Handelsvolumen auf dem FX-Markt für Spekulanten künstlich zu vervielfachen."
+    - "Das Land ist nicht an die internationalen Finanzmärkte angeschlossen und möchte seine Wirtschaft gezielt schützen."
+    - "Das Land wählt eine feste Referenzwährung wie den US-Dollar oder den Euro, um das eigene Tauschverhältnis starr zu fixieren."
+
+  correct:
+    - C
+    - D
+  explanation: "Diese Multiple-Choice-Frage prüft die im Video genannten Gründe für das Fixing einer Währung (Schutzbedürfnis und Anbindung an Referenzwährung)."
+
+- question: |
+    Im Video wird der nominale Wechselkurs vom realen Wechselkurs abgegrenzt. 
+    Welche Eigenschaft wird dem realen Wechselkurs im Vergleich zum nominalen Wechselkurs explizit zugeschrieben?
+  type: single
+  answers:
+    - "Der reale Wechselkurs drückt im Gegensatz zum nominalen Kurs das reine Mengenverhältnis am Devisenmarkt aus."
+    - "Der reale Wechselkurs lässt sich im Gegensatz zum nominalen Kurs von einer Regierung nicht einfach starr fixieren."
+    - "Der reale Wechselkurs wird im Gegensatz zum nominalen Kurs ausschließlich über die offiziellen FX-Märkte abgebildet."
+    - "Der reale Wechselkurs spiegelt im Gegensatz zum nominalen Kurs immer die tagesaktuellen Leitzinsen der Großbanken wider."
+  correct: B
+  explanation: "Basiert auf der Aussage ab Minute 3:00: Den nominalen Kurs kann man fixieren, den realen Wechselkurs hingegen nicht."
+
+- question: |
+    Bei einem fixierten Währungsverhältnis bewegt sich der nominale Wechselkurs per Definition nicht. 
+    Wie drückt sich eine reale Abwertung der lokalen Währung in einem solchen System laut den Erklärungen im Video stattdessen aus?
+  type: single
+  answers:
+    - "Die Anpassung erfolgt über die Zinssätze, da ausländische Investoren automatisch höhere Renditen auf Sparguthaben erzielen."
+    - "Die Anpassung erfolgt über die Mengen, da der Staat den Import von ausländischen Gütern gesetzlich komplett verbieten muss."
+    - "Die Anpassung erfolgt über die Warenpreise, da ausländische Handelspartner mehr Geld für ihre exportierten Güter verlangen."
+    - "Die Anpassung erfolgt über den FX-Markt, da die Zentralbank das Fixing im Sekundentakt an die Marktliquidität anpasst."
+  correct: C
+  explanation: "Gibt die Dynamik bei festen Wechselkursen wieder (Minute 3:40): Schwankungen finden dann über die Preise von importierten und exportierten Waren statt."
+
+# ==========================================
+# ABSCHNITT 3: "Wie viel kostet ein BigMac" (4:05 bis 8:34)
+# ==========================================
+
+- question: |
+    Der Big-Mac-Index ist ein bekanntes Instrument zur Messung des realen Wechselkurses. 
+    Unter welcher theoretischen Kernannahme wird dieser Index weltweit zur Bewertung von Währungen herangezogen?
+  type: single
+  answers:
+    - "Es wird davon ausgegangen, dass ein identisches Produkt auf der gesamten Welt langfristig denselben realen Wert haben sollte."
+    - "Es wird davon ausgegangen, dass die Fast-Food-Preise in den USA die Obergrenze für die weltweite Inflation definieren."
+    - "Es wird davon ausgegangen, dass der Preis eines Burgers exakt proportional zum nominalen Leitzins der Zentralbanken verläuft."
+    - "Es wird davon ausgegangen, dass unterbewertete Währungen den Import von Agrargütern aus den USA dauerhaft verbilligen."
+  correct: A
+  explanation: "Basiert auf der Kaufkraftparitäten-Theorie (Purchase Power Price), die besagt, dass gleiche Güter überall gleich viel kosten sollten."
+
+- question: |
+    Liegt der umgerechnete Preis eines Big Mac in einem Land über dem Preis des amerikanischen Referenzmarktes, lässt sich daraus eine Aussage ableiten. 
+    Wie wird die Währung dieses spezifischen Landes im Big-Mac-Index in einem solchen Fall eingestuft?
+  type: single
+  answers:
+    - "Die Währung des entsprechenden Landes wird im internationalen Vergleich als fundamental unterbewertet angesehen."
+    - "Die Währung des entsprechenden Landes wird im Vergleich zum amerikanischen US-Dollar als überbewertet angesehen."
+    - "Die Währung des entsprechenden Landes befindet sich in einem staatlich kontrollierten, fixen Wechselkurssystem."
+    - "Die Währung des entsprechenden Landes verliert auf dem FX-Markt im Sekundentakt an realer Liquidität und Kaufkraft."
+  correct: B
+  explanation: "Überprüft die Interpretation des Index (Minute 4:50): Kostet der Burger mehr als im Referenzmarkt, gilt die Währung als überbewertet."
+
+- question: |
+    Das Video betont, dass der Big-Mac-Index für den exakten internationalen Vergleich der Kaufkraft an seine Grenzen stößt. 
+    Welcher methodische Ansatz wird in der wirtschaftlichen Praxis stattdessen genutzt, um den realen Wechselkurs repräsentativer zu bestimmen?
+  type: single
+  answers:
+    - "Es werden anstelle eines einzelnen Produkts umfassendere, international vergleichbare Warenkörbe für die Analyse angelegt."
+    - "Es werden ausschließlich die Transportkosten der geheimen Zutaten zwischen den Industrieländern statistisch erfasst."
+    - "Es wird der nominale Wechselkurs der fünf meistgehandelten Währungspaare am FX-Markt mathematisch gemittelt."
+    - "Es werden die Mietpreise der größten Geschäftsbanken in den jeweiligen Hauptstädten als alleinige Basis definiert."
+  correct: A
+  explanation: "Basiert auf Minute 5:04: Da der Big Mac nicht vollkommen repräsentativ ist, werden in der Regel weiter angelegte Warenkörbe miteinander verglichen."
